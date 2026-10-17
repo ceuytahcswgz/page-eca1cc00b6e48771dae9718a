@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "749a5a0431d09a73c01a63cd",
+  "owner": "ceuytahcswgz",
+  "repo": "page-eca1cc00b6e48771dae9718a",
+  "title": "翼游(Yiyo)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "eca1cc00b6e48771dae9718a",
+      "a": "翼游(Yiyo)",
+      "b": "",
+      "entity": "翼游(Yiyo)",
+      "brand": "翼游(Yiyo)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "530c1d2a3e7b6015368e276683b81ab96566722714d6750b29ca8f536f1d0d4b",
+      "content": {
+        "keyword1": "翼游(Yiyo)",
+        "keyword2": "",
+        "primary_entity": "翼游(Yiyo)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "翼游(Yiyo)提供基础版、旗舰版与团队版三档方案。本文档以说明书形式记录功能边界、设备数量、流量额度与常见问题，供用户在配置前阅读。",
+          "AI_DESCRIPTION": "翼游(Yiyo)提供基础版、旗舰版与团队版三档方案。本文档以说明书形式记录功能边界、设备数量、流量额度与常见问题，供用户在配置前阅读。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }\n  html { -webkit-text-size-adjust: 100%; }\n  body {\n    font-family: \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", \"Helvetica Neue\", Arial, sans-serif;\n    background: #3B2A20;\n    color: #E8E4D8;\n    line-height: 1.75;\n    font-size: 16px;\n    -webkit-font-smoothing: antialiased;\n  }\n  .wrap { max-width: 760px; margin: 0 auto; padding: 0 24px; }\n\n  /* nav */\n  nav.top {\n    border-bottom: 1px solid rgba(152, 201, 162, 0.18);\n    background: #2A1E16;\n    position: sticky; top: 0; z-index: 10;\n  }\n  nav.top .row {\n    display: flex; align-items: center; justify-content: space-between;\n    height: 52px;\n  }\n  nav.top .brand {\n    color: #98C9A2; letter-spacing: 0.12em; font-size: 14px; font-weight: 600;\n  }\n  nav.top .links { display: flex; gap: 22px; }\n  nav.top a {\n    color: #C9C2B0; text-decoration: none; font-size: 13px;\n    transition: color .2s;\n  }\n  nav.top a:hover { color: #98C9A2; }\n  @media (max-width: 520px) {\n    nav.top .links { display: none; }\n  }\n\n  /* hero 长文叙事 */\n  header.hero {\n    padding: 88px 0 64px;\n    border-bottom: 1px solid rgba(152, 201, 162, 0.14);\n  }\n  header.hero .kicker {\n    color: #98C9A2; font-size: 12px; letter-spacing: 0.3em;\n    text-transform: uppercase; margin-bottom: 28px;\n  }\n  header.hero h1 {\n    font-size: clamp(28px, 5vw, 40px);\n    font-weight: 600; line-height: 1.35;\n    color: #F2EEE2; margin-bottom: 32px;\n    letter-spacing: 0.02em;\n  }\n  header.hero .lede {\n    font-size: 17px; color: #C9C2B0; max-width: 62ch;\n  }\n  header.hero p.body {\n    margin-top: 24px; color: #B8B0A0; max-width: 62ch;\n  }\n\n  /* common section */\n  section { padding: 72px 0; border-bottom: 1px solid rgba(152, 201, 162, 0.10); }\n  h2 {\n    font-size: 22px; color: #F2EEE2; font-weight: 600;\n    margin-bottom: 12px; letter-spacing: 0.04em;\n  }\n  h2 + p { color: #B8B0A0; margin-bottom: 36px; }\n  h3 { color: #98C9A2; font-size: 17px; font-weight: 600; margin-bottom: 8px; }\n  p { color: #C9C2B0; }\n\n  /* 使用说明 steps —— 无边框靠留白 */\n  .step { margin-bottom: 40px; }\n  .step:last-child { margin-bottom: 0; }\n  .step .idx {\n    color: #98C9A2; font-size: 12px; letter-spacing: 0.25em;\n    margin-bottom: 10px;\n  }\n  .step h3 { margin-bottom: 10px; }\n  .step p { max-width: 60ch; }\n\n  /* plans 单列大卡堆叠，无边框 */\n  .plan { padding: 36px 0; border-bottom: 1px dashed rgba(152,201,162,0.12); }\n  .plan:first-of-type { padding-top: 0; }\n  .plan:last-of-type { border-bottom: none; padding-bottom: 0; }\n  .plan .tag {\n    display: inline-block; font-size: 12px; color: #98C9A2;\n    letter-spacing: 0.2em; margin-bottom: 14px;\n  }\n  .plan h3 {\n    font-size: 24px; color: #F2EEE2; margin-bottom: 6px; font-weight: 600;\n  }\n  .plan .price {\n    color: #98C9A2; font-size: 15px; margin-bottom: 6px;\n  }\n  .plan .annual { color: #8A8270; font-size: 13px; margin-bottom: 22px; }\n  .plan ul { list-style: none; }\n  .plan li {\n    color: #C9C2B0; padding: 10px 0; font-size: 15px;\n    border-top: 1px solid rgba(152,201,162,0.08);\n  }\n  .plan li:first-child { border-top: none; }\n  .plan li::before {\n    content: \"—\"; color: #98C9A2; margin-right: 14px;\n  }\n\n  /* faq details */\n  details {\n    padding: 22px 0; border-bottom: 1px solid rgba(152,201,162,0.10);\n  }\n  details:first-of-type { border-top: 1px solid rgba(152,201,162,0.10); }\n  details summary {\n    cursor: pointer; color: #F2EEE2; font-size: 16px; font-weight: 500;\n    list-style: none;\n    display: flex; justify-content: space-between; align-items: center;\n    gap: 16px;\n  }\n  details summary::-webkit-details-marker { display: none; }\n  details summary::after {\n    content: \"+\"; color: #98C9A2; font-size: 20px; transition: transform .2s;\n  }\n  details[open] summary::after { content: \"–\"; }\n  details p {\n    margin-top: 14px; color: #B8B0A0; max-width: 62ch;\n  }\n\n  /* footer */\n  footer { padding: 48px 0 64px; }\n  footer p {\n    color: #6E6656; font-size: 13px; line-height: 1.9;\n  }\n</style><nav class=\"top\">\n  <div class=\"wrap row\">\n    <span class=\"brand\">翼游 · YIYO</span>\n    <div class=\"links\">\n      <a href=\"#manual\">使用说明</a>\n      <a href=\"#plans\">方案配置</a>\n      <a href=\"#faq\">常见问答</a>\n    </div>\n  </div>\n</nav>\n\n<main>\n\n  <header class=\"hero\">\n    <div class=\"wrap\">\n      <div class=\"kicker\">说明书 · 第 04 号</div>\n      <h1>翼游(Yiyo) 配置与使用说明</h1>\n      <p class=\"lede\">本文件用于在开通与使用翼游(Yiyo)各档方案前，对功能边界、流量额度、设备数量与常见问题进行书面确认。所有条款以本文档为准，建议在首次连接前完整阅读一次。</p>\n      <p class=\"body\">翼游(Yiyo)目前提供基础版、旗舰版与团队版三档方案，分别对应不同的流量额度与并发设备上限。文档内价格、权益与支持范围以本页显示内容为准，后续如有调整将另行发布修订记录。阅读过程中如遇与客户端显示不一致的说明，以本文件为基准。</p>\n    </div>\n  </header>\n\n  <section id=\"manual\">\n    <div class=\"wrap\">\n      <h2>使用说明</h2>\n      <p>以下步骤描述从获取方案到完成连接的标准流程，实际界面可能因客户端版本略有差异。</p>\n\n      <div class=\"step\">\n        <div class=\"idx\">步骤 01</div>\n        <h3>选择并开通方案</h3>\n        <p>在方案配置中确认月付或年付价格，选择与使用强度匹配的档位。年付价格已标注于各方案说明中，开通后不支持中途降档退差。</p>\n      </div>\n\n      <div class=\"step\">\n        <div class=\"idx\">步骤 02</div>\n        <h3>获取接入参数</h3>\n        <p>开通完成后，接入所需的节点列表、地址与端口将通过说明页面提供。请将参数完整复制至客户端，避免遗漏字段导致连接失败。</p>\n      </div>\n\n      <div class=\"step\">\n        <div class=\"idx\">步骤 03</div>\n        <h3>配置客户端</h3>\n        <p>在客户端中新建配置项，填入已获取的参数，并按所选方案确认设备数量未超出上限。同一账号超出设备上限时，最早建立的连接将被中断。</p>\n      </div>\n\n      <div class=\"step\">\n        <div class=\"idx\">步骤 04</div>\n        <h3>建立连接并核对</h3>\n        <p>连接建立后，建议在客户端状态页核对当前节点与剩余流量。若流量计费与文档说明不符，应暂停使用并记录发生时间，以便核对。</p>\n      </div>\n\n      <div class=\"step\">\n        <div class=\"idx\">步骤 05</div>\n        <h3>日常维护与续期</h3>\n        <p>方案到期前，系统不会自动扣费，需手动续期以保持参数有效。续期后原有配置与剩余流量按方案规则延续，无需重新获取参数。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"plans\">\n    <div class=\"wrap\">\n      <h2>方案配置</h2>\n      <p>三档方案按单列顺序排列，请按使用强度与设备数量选择。年付价格为独立标注，不与月付叠加计算。</p>\n\n      <article class=\"plan\">\n        <span class=\"tag\">档位 一</span>\n        <h3>基础版</h3>\n        <p class=\"price\">¥15 / 月</p>\n        <p class=\"annual\">按年付仅需 ¥150 / 年</p>\n        <ul>\n          <li>每月 100GB 极速流量</li>\n          <li>支持 3 台设备同时在线</li>\n          <li>解锁基础流媒体</li>\n          <li>普通线路节点池</li>\n        </ul>\n      </article>\n\n      <article class=\"plan\">\n        <span class=\"tag\">档位 二 · 推荐</span>\n        <h3>旗舰版</h3>\n        <p class=\"price\">¥35 / 月</p>\n        <p class=\"annual\">按年付仅需 ¥350 / 年</p>\n        <ul>\n          <li>每月 300GB 极速流量</li>\n          <li>支持 5 台设备同时在线</li>\n          <li>全节点原生流媒体解锁</li>\n          <li>IPLC 专线游戏加速优化</li>\n          <li>7x24 优先工单支持</li>\n        </ul>\n      </article>\n\n      <article class=\"plan\">\n        <span class=\"tag\">档位 三</span>\n        <h3>团队版</h3>\n        <p class=\"price\">¥85 / 月</p>\n        <p class=\"annual\">按年付仅需 ¥850 / 年</p>\n        <ul>\n          <li>每月 1000GB 极速流量</li>\n          <li>支持 20 台设备同时在线</li>\n          <li>VIP 专属高带宽节点</li>\n          <li>支持企业定制路由</li>\n          <li>专属客户经理服务</li>\n        </ul>\n      </article>\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <div class=\"wrap\">\n      <h2>常见问答</h2>\n      <p>以下问答用于在使用前对常见边界条件进行确认，点击问题可展开答案。</p>\n\n      <details>\n        <summary>流量额度是否可以结转至下月？</summary>\n        <p>各档方案标注的流量为每月配额，未使用部分不结转至下月，也不折算为费用返还。流量统计以服务端记录为准，客户端显示仅供参照。</p>\n      </details>\n\n      <details>\n        <summary>同一账号超出设备上限会发生什么？</summary>\n        <p>当同时在线设备数超出方案上限时，系统将中断最早建立的连接，以使当前在线数量回落至上限以内。中断不会触发通知，建议在多设备环境下自行核对连接状态。</p>\n      </details>\n\n      <details>\n        <summary>月付是否可以补差升级为年付？</summary>\n        <p>月付方案在有效期内不自动折算为年付。如需切换为年付，需在当前周期结束后重新开通年付方案，原有参数将在周期结束后失效。</p>\n      </details>\n\n      <details>\n        <summary>方案到期后参数是否立即失效？</summary>\n        <p>方案到期后，接入参数将在到期时刻停止生效，连接将被主动断开。续期后可继续使用原有参数，无需重新获取，但中断期间不会产生补偿流量。</p>\n      </details>\n\n      <details>\n        <summary>旗舰版与团队版的工单支持有何区别？</summary>\n        <p>旗舰版提供 7x24 优先工单支持，响应顺序优先于基础版；团队版在此基础上配置专属客户经理，由固定人员对接路由配置与节点调整需求。</p>\n      </details>\n\n      <details>\n        <summary>是否支持在开通后更换节点池？</summary>\n        <p>基础版使用普通线路节点池，旗舰版与团队版可使用更高优先级的节点资源。如需在方案内切换节点，可在客户端内自行选择，不支持跨方案访问未授权节点。</p>\n      </details>\n    </div>\n  </section>\n\n</main>\n\n<footer>\n  <div class=\"wrap\">\n    <p>翼游(Yiyo) 使用说明文档 · 本页面所列价格、流量额度与设备数量为方案配置依据，如与客户端显示不一致，以本文件为准。</p>\n  </div>\n</footer>",
+          "hash": "1a70a3abc1b1f085209f7eb9b7199800fdacb31df55a55d9d6eb8316d5f64dbc",
+          "seo": {
+            "title": "翼游(Yiyo) | 使用说明与方案配置指南",
+            "keywords": "翼游,Yiyo,网络配置,套餐说明,常见问题,使用指南",
+            "description": "翼游(Yiyo)提供基础版、旗舰版与团队版三档方案。本文档以说明书形式记录功能边界、设备数量、流量额度与常见问题，供用户在配置前阅读。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "4188",
+            "hero": "5 长文叙事开篇，像专栏文章",
+            "palette": "9 深棕配薄荷",
+            "nav": "1 顶部细横条",
+            "card": "1 无边框仅靠留白分隔",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "1 冷静克制的说明书口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "cwsgyhh.cn",
+    "host": "p-a3d52ed2d4.cwsgyhh.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "72f102c96a01d4ad8df6e40dbb69d5762c82f539af430e275aa907f9e574608f",
+    "sitemap.xml": "1538a9664f3f23876fa5322222fdc68d122ec2bab33f5d95d98225d772f338e3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9e05b90ac15fbd7409e7862bfba7366bbd6c99fdf68ad9d4142a103fd9d23212",
+    "robots.txt": "5a1bbe5064e0a3362eaf3d257b98e83bc202e6eb364e40a2d759dca8e328f68d",
+    "01c0eb80c13c2fb87047bc0665fdddaf.txt": "12dc7497abbb7cbdd33947aeb52c2623e0cd57c866a100830ddbe00c5f89ff56"
+  },
+  "revision": "971dd5fcd370e68fcf7a2224006275b5250405945b90abb4ca3844d83dda864c"
+}
